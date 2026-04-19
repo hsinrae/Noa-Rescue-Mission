@@ -1,0 +1,16 @@
+{
+  "name": "Noa's Rescue Mission",
+  "short_name": "Noa Rescue",
+  "description": "Help Noa chase the fox and bring the baby chick home.",
+  "display": "standalone",
+  "background_color": "#102540",
+  "theme_color": "#102540",
+  "icons": [
+    {
+      "src": "./home-icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
